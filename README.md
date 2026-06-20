@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Vivek Ingale 👋
+# Hi, I'm Vivek Ingale 
 
 ### Engineer · Tech Geek · Entrepreneur — building systems with scale and impact, one line of code at a time.
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=C8873A&background=00000000&center=true&vCenter=true&width=600&lines=DSA+in+Java+%26+C%2B%2B;Full-Stack+via+Sheryians+Cohort+3.0;AI+Engineering;System+Design" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=C8873A&background=00000000&center=true&vCenter=true&width=600&lines=DSA+in+Java+%26+C%2B%2B;Full-Stack+via+Sheryians+Cohort+3.0;AI+Ml;System+Design" />
 
 </div>
 
@@ -21,7 +21,7 @@ I build systems, not excuses. Engineering for scale, thinking like a founder —
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,tailwind,html,css,nodejs,express,mongodb,git,github,githubactions,docker,aws" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,tailwind,html,css,nodejs,express,mongodb,git,github,githubactions,docker,aws" />
 </p>
 
 <p align="center">
