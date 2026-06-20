@@ -11,29 +11,73 @@
 
 <br>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 $ whoami
 
-I build systems, not excuses. Engineering for scale, thinking like a founder — every line of code should compound into something bigger than itself. Calm under pressure, relentless by default.
+```bash
+$ whoami
+> Vivek Ingale — Engineer · Tech Geek · Entrepreneur
 
-**Make it happen. Shock everyone.**
+$ philosophy
+> I build systems, not excuses.
+> Engineering for scale, thinking like a founder.
+> Calm under pressure, relentless by default.
 
-<br>
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,tailwind,html,css,nodejs,express,mongodb,git,github,githubactions,docker,aws" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/-Generative%20AI-c8873a?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/-LangChain-2d6a4f?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/-Agentic%20Workflows%20(MCP)-c8873a?style=flat-square&logoColor=white" />
-</p>
+$ mission
+> Make it happen. Shock everyone.
+```
 
 <br>
 
-## 📫 Connect
+## 🛠️ $ tech-stack --list
+
+**Languages**
+
+<p>
+<img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-1f2937?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+</p>
+
+**Frontend**
+
+<p>
+<img src="https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-1f2937?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-1f2937?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
+
+**Backend**
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-1f2937?style=for-the-badge&logo=express&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/MongoDB-1f2937?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+</p>
+
+**AI Engineering**
+
+<p>
+<img src="https://img.shields.io/badge/Generative_AI-1f2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1f2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic_Workflows_(MCP)-1f2937?style=for-the-badge" />
+</p>
+
+**Tools & Infra**
+
+<p>
+<img src="https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/GitHub_Actions-1f2937?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/AWS-1f2937?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+</p>
+
+<br>
+
+## 📫 $ connect --all
 
 <p>
 <a href="https://www.linkedin.com/in/vivekingale01/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
