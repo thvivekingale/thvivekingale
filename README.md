@@ -1,90 +1,202 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:C8873A&height=190&section=header&text=Vivek%20Ingale&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Engineer%20%C2%B7%20Tech%20Geek%20%C2%B7%20Entrepreneur&descAlignY=58&descSize=17&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7C3AED&height=200&section=header&text=Vivek%20Ingale&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=58&descSize=16&descColor=e5e7eb" width="100%"/>
 
-<!-- 📸 PASTE YOUR PHOTO LINK HERE — drag the photo into the GitHub editor, copy the auto-generated link, replace this line with:
-<img src="PASTE_LINK_HERE" width="160" style="border-radius:50%"> -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=7C3AED&background=00000000&center=true&vCenter=true&width=650&lines=Building+scalable+software+systems;Engineering+for+AI-driven+products;Full-Stack+%2B+AI%2FML+Engineer+in+progress;Open+to+Software+Engineering+roles" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=C8873A&background=00000000&center=true&vCenter=true&width=600&lines=DSA+in+Java;Full-Stack+via+Sheryians+Cohort+3.0;AI+Engineering;System+Design" />
+<br>
+
+<!-- Academic badge: generic by design, no institution/branch until confirmed -->
+<img src="https://img.shields.io/badge/🎓-B.Tech%20Engineering%20Student-7C3AED?style=for-the-badge&logoColor=white" />
+<!-- Location badge intentionally omitted — add your own, e.g. 📍 City, Country -->
+
+<br><br>
+
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vivekingale01/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:thevivekingale@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/thvivekingale"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=thvivekingale&style=for-the-badge&color=7c3aed&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/thvivekingale?style=for-the-badge&color=7c3aed&logo=github&label=Followers&labelColor=1f2937" />
 
 </div>
 
-<br>
+---
 
-## 🧑‍💻 $ whoami
+## About
 
-```bash
-$ whoami
-> Vivek Ingale — Engineer · Tech Geek · Entrepreneur
+Engineer with a builder's mindset — I think in systems, not tasks. My focus sits at the intersection of **full-stack software engineering** and **applied AI/ML**, with a bias toward code that scales cleanly and holds up under real load. I approach problems the way a founder would: start from impact, work backward to implementation.
 
-$ philosophy
-> I build systems, not excuses.
-> Engineering for scale, thinking like a founder.
-> Calm under pressure, relentless by default.
+Currently deepening full-stack and AI engineering foundations through **Sheryians Cohort 3.0**, alongside rigorous DSA practice in Java for interview-grade problem solving.
 
- mission
-> Make it happen. Shock everyone.
-```
+**Open To:**
+- Software Engineering Internships / New-Grad roles
+- AI/ML Engineering opportunities
+- High-intensity hackathons and build-in-public collaborations
 
-<br>
+---
 
-## 🛠️ $ tech-stack --list
+## Tech Stack
 
 **Languages**
 
-<p>
-<img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-<img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-1f2937?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" />
 
 **Frontend**
 
-<p>
-<img src="https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-1f2937?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-1f2937?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css3&logoColor=1572B6" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
-**Backend**
+**Backend & Databases**
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express-1f2937?style=for-the-badge&logo=express&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/MongoDB-1f2937?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-**AI Engineering**
+**Cloud, DevOps & Tooling**
 
-<p>
-<img src="https://img.shields.io/badge/Generative_AI-1f2937?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-1f2937?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic_Workflows_(MCP)-1f2937?style=for-the-badge" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws" />
 
-**Tools & Infra**
+---
 
-<p>
-<img src="https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/GitHub_Actions-1f2937?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
-<img src="https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/AWS-1f2937?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-</p>
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Generative AI | Learning | Prompt engineering, embeddings, model integration |
+| LangChain | Learning | Retrieval workflows, chaining, context management |
+| Agentic Workflows (MCP) | Learning | Tool-using agents via Model Context Protocol |
+| Applied DSA for ML | Building | Java-based algorithmic foundation for ML systems |
+
+---
+
+## Featured Projects
+
+<!-- Duplicate this <details> block for each real project. Replace every bracketed field with actual data before publishing. -->
+
+<details>
+<summary><b>[Project Name]</b></summary>
 
 <br>
 
-## 📫 $ connect --all
+[One or two lines describing the problem the project solves and why it matters.]
 
-<p>
-<a href="https://www.linkedin.com/in/vivekingale01/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/thvivekingale"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://t.me/Thvicky"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
-<a href="https://www.instagram.com/vivekingale01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="mailto:thevivekingale@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+| Aspect | Detail |
+|---|---|
+| Stack | [e.g. React, Node.js, MongoDB] |
+| Scale | [e.g. Handles X requests/records] |
+| Performance | [e.g. Load time, response time — only if measured] |
+| Security | [e.g. Auth method, data handling approach] |
+| Impact | [e.g. Real usage/outcome, only if true] |
+| Repository | [Link to real repo] |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8873A,100:0D1117&height=110&section=footer" width="100%"/>
+</details>
+
+---
+
+## Experience
+
+> Currently a student, actively building toward my first Software Engineering / AI Engineering role.
+> *(Replace this block with real role, company, dates, and scope once employed.)*
+
+---
+
+## Achievements
+
+| Recognition | Details |
+|---|---|
+| [Add real achievement] | [Add context/date] |
+
+---
+
+## Certifications
+
+**AWS**
+<!-- Add AWS certification badges here once earned -->
+
+**Oracle**
+<!-- Add Oracle certification badges here once earned -->
+
+**NPTEL**
+<!-- Add NPTEL certification badges here once earned -->
+
+**Cisco**
+<!-- Add Cisco certification badges here once earned -->
+
+---
+
+## Coding Profiles
+
+<!-- Replace YOUR_USERNAME with your real handle on each platform -->
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+
+---
+
+## GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=thvivekingale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thvivekingale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9" width="48%" />
+
+<img src="https://streak-stats.demolab.com/?user=thvivekingale&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="97%" />
+
+---
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=thvivekingale&theme=dracula&no-frame=true&row=1&column=6" width="100%" />
+
+---
+
+## Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thvivekingale&theme=react-dark&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=ffffff" width="100%" />
+
+---
+
+## Contribution Snake
+
+<!-- Requires a one-time GitHub Actions workflow to generate this SVG — ask and I'll set it up -->
+<img src="https://raw.githubusercontent.com/thvivekingale/thvivekingale/output/github-contribution-grid-snake.svg" width="100%" />
+
+---
+
+## Current Focus
+
+```yaml
+current_focus:
+  learning:
+    - Data Structures & Algorithms (Java)
+    - Full-Stack Development (Sheryians Cohort 3.0)
+    - AI/ML Engineering
+  building:
+    - Personal engineering projects
+    - Open-source contributions
+  exploring:
+    - Agentic AI workflows (MCP)
+    - System Design
+  open_to:
+    - Software Engineering Internships
+    - AI/ML Engineering roles
+    - Hackathon collaborations
+```
+
+---
+
+## Connect
+
+<a href="mailto:thevivekingale@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vivekingale01/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/thvivekingale"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br><br>
+
+<i>Make it happen. Shock everyone.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0D1117&height=120&section=footer" width="100%"/>
+
+</div>
