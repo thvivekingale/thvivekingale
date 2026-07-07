@@ -6,7 +6,6 @@
 
 <br>
 
-<!-- Academic badge: generic by design, no institution/branch until confirmed -->
 <img src="https://img.shields.io/badge/🎓-B.Tech%20Engineering%20Student-7C3AED?style=for-the-badge&logoColor=white" />
 <!-- Location badge intentionally omitted — add your own, e.g. 📍 City, Country -->
 
@@ -28,9 +27,7 @@
 
 ## About
 
-Engineer with a builder's mindset — I think in systems, not tasks. My focus sits at the intersection of **full-stack software engineering** and **applied AI/ML**, with a bias toward code that scales cleanly and holds up under real load. I approach problems the way a founder would: start from impact, work backward to implementation.
-
-Currently deepening full-stack and AI engineering foundations through **Sheryians Cohort 3.0**, alongside rigorous DSA practice in Java for interview-grade problem solving.
+Engineer with a builder's mindset — I think in systems, not tasks. My focus sits at the intersection of **full-stack software engineering** and **applied AI/ML**, with hands-on work building Generative AI applications on Google Cloud (Gemini, Vertex AI) and a growing base in cloud-native DevOps. I approach problems the way a founder would: start from impact, work backward to implementation.
 
 **Open To:**
 - Software Engineering Internships / New-Grad roles
@@ -51,11 +48,28 @@ Currently deepening full-stack and AI engineering foundations through **Sheryian
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi" />
+
+<img src="https://img.shields.io/badge/SQL%2FNoSQL-1f2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-1f2937?style=for-the-badge" />
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,aws,azure,linux" />
+
+<img src="https://img.shields.io/badge/Terraform-1f2937?style=for-the-badge&logo=terraform&logoColor=844FBA" />
+<img src="https://img.shields.io/badge/Ansible-1f2937?style=for-the-badge&logo=ansible&logoColor=EE0000" />
+<img src="https://img.shields.io/badge/GitOps-1f2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DevSecOps-1f2937?style=for-the-badge" />
+
+**AI / GenAI Engineering**
+
+<img src="https://img.shields.io/badge/LangChain-1f2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-1f2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-1f2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI%20(MCP)-1f2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20DBs%20(Pinecone%2FChroma)-1f2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Transformers%20%2F%20BERT-1f2937?style=for-the-badge" />
 
 ---
 
@@ -63,32 +77,49 @@ Currently deepening full-stack and AI engineering foundations through **Sheryian
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Generative AI | Learning | Prompt engineering, embeddings, model integration |
-| LangChain | Learning | Retrieval workflows, chaining, context management |
-| Agentic Workflows (MCP) | Learning | Tool-using agents via Model Context Protocol |
-| Applied DSA for ML | Building | Java-based algorithmic foundation for ML systems |
+| Generative AI (Gemini, Imagen) | Practitioner | Built real-world GenAI applications with Google Gemini & Imagen — Google-certified |
+| Prompt Engineering & Vertex AI | Practitioner | Prompt design workflows on Google Vertex AI — Google-certified |
+| Multimodal RAG | Learning | Multimodal retrieval-augmented generation pipelines — Google-certified |
+| Agentic AI (LangChain / LangGraph / MCP) | Learning | Building agent-based GenAI workflows and MCP-integrated systems |
+| Cloud-Native AI Deployment | Learning | Cloud Run, GKE, K8sGPT for AI application infrastructure |
 
 ---
 
 ## Featured Projects
 
-<!-- Duplicate this <details> block for each real project. Replace every bracketed field with actual data before publishing. -->
-
 <details>
-<summary><b>[Project Name]</b></summary>
+<summary><b>AI-Powered Chatbot System using Google Cloud & Gemini API</b></summary>
 
 <br>
 
-[One or two lines describing the problem the project solves and why it matters.]
+Workshop-based real-world implementation of a conversational AI system integrating Google Gemini with cloud-native infrastructure.
 
 | Aspect | Detail |
 |---|---|
-| Stack | [e.g. React, Node.js, MongoDB] |
-| Scale | [e.g. Handles X requests/records] |
-| Performance | [e.g. Load time, response time — only if measured] |
-| Security | [e.g. Auth method, data handling approach] |
-| Impact | [e.g. Real usage/outcome, only if true] |
-| Repository | [Link to real repo] |
+| Stack | Google Gemini, Cloud Run, FastAPI, Cloud Vision API, GKE, K8sGPT |
+| Scale | [Add if measured] |
+| Performance | [Add if measured] |
+| Security | [Add if applicable] |
+| Impact | Workshop-based, real-world implementation |
+| Repository | [Add repo link] |
+
+</details>
+
+<details>
+<summary><b>VolunteerIQ</b></summary>
+
+<br>
+
+Building the operating system for disaster volunteer coordination — replacing scattered, manual processes with a structured platform, from field report to deployed system.
+
+| Aspect | Detail |
+|---|---|
+| Stack | [Add specific technologies] |
+| Scale | [Add if measured] |
+| Performance | [Add if measured] |
+| Security | [Add if applicable] |
+| Impact | Taken from field report to deployed |
+| Repository | [Add repo link] |
 
 </details>
 
@@ -96,8 +127,16 @@ Currently deepening full-stack and AI engineering foundations through **Sheryian
 
 ## Experience
 
-> Currently a student, actively building toward my first Software Engineering / AI Engineering role.
-> *(Replace this block with real role, company, dates, and scope once employed.)*
+**Virtual Experience Program — Technology** · *Deloitte Australia (via Forage)*
+*Nov 2025*
+
+Completed a job-simulation program covering IT project and program management fundamentals.
+
+`IT Project & Program Management`
+
+<br>
+
+> Currently a student, actively building toward my first full-time Software Engineering / AI Engineering role.
 
 ---
 
@@ -105,23 +144,43 @@ Currently deepening full-stack and AI engineering foundations through **Sheryian
 
 | Recognition | Details |
 |---|---|
-| [Add real achievement] | [Add context/date] |
+| Google Gemini QuizOff 2026 — Special Certificate Distribution | CampusCrew (via Unstop) · Jun 2026 |
 
 ---
 
 ## Certifications
 
-**AWS**
-<!-- Add AWS certification badges here once earned -->
+**Google**
 
-**Oracle**
-<!-- Add Oracle certification badges here once earned -->
+<img src="https://img.shields.io/badge/Gemini_%26_Imagen_AI_Apps-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Design_in_Vertex_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_Multimodal_RAG-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Certifications-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
-**NPTEL**
-<!-- Add NPTEL certification badges here once earned -->
+**JetBrains**
 
-**Cisco**
-<!-- Add Cisco certification badges here once earned -->
+<img src="https://img.shields.io/badge/Java_Foundations-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+
+**OpenEDG**
+
+<img src="https://img.shields.io/badge/Python_Professional_Certificate-2E7D32?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B_Professional_Certificate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+**Microsoft & LinkedIn**
+
+<img src="https://img.shields.io/badge/Generative_AI_Career_Essentials-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+**GitHub**
+
+<img src="https://img.shields.io/badge/Career_Essentials_in_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+**ServiceNow**
+
+<img src="https://img.shields.io/badge/IT_Leadership_Professional_Certificate-292E35?style=for-the-badge&logo=servicenow&logoColor=white" />
+
+**Be10x**
+
+<img src="https://img.shields.io/badge/AI_Tools_Workshop-6D28D9?style=for-the-badge" />
 
 ---
 
@@ -169,19 +228,19 @@ Currently deepening full-stack and AI engineering foundations through **Sheryian
 ```yaml
 current_focus:
   learning:
-    - Data Structures & Algorithms (Java)
-    - Full-Stack Development (Sheryians Cohort 3.0)
-    - AI/ML Engineering
+    - Full-Stack Development (React, Next.js, Node.js, MongoDB)
+    - Advanced Generative AI & Agentic Systems (LangChain, LangGraph, MCP)
+    - Cloud-Native DevOps (Kubernetes, Terraform, GitOps, DevSecOps)
   building:
+    - AI-powered applications on Google Cloud
     - Personal engineering projects
-    - Open-source contributions
   exploring:
-    - Agentic AI workflows (MCP)
-    - System Design
+    - Vector Databases & RAG pipelines
+    - MLOps & AI-powered automation
   open_to:
     - Software Engineering Internships
     - AI/ML Engineering roles
-    - Hackathon collaborations
+    - DevOps / Cloud Engineering roles
 ```
 
 ---
@@ -194,6 +253,8 @@ current_focus:
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br><br>
+
+<div align="center">
 
 <i>Make it happen. Shock everyone.</i>
 
