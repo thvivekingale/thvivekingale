@@ -22,7 +22,7 @@ $ philosophy
 > Engineering for scale, thinking like a founder.
 > Calm under pressure, relentless by default.
 
-$ mission
+ mission
 > Make it happen. Shock everyone.
 ```
 
